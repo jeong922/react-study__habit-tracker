@@ -42,6 +42,7 @@ button {
 .add-input {
   font-size: 1.5rem;
   margin-right: 0.2rem;
+  margin-left: 2em;
 }
 
 .add-button {
@@ -83,4 +84,12 @@ button {
 
 .habit-delete {
   color: rgb(206, 87, 87);
+}
+
+.habits-reset {
+  font-size: 1.5rem;
+  padding: 0.2em 1em;
+  margin-left: 2em;
+  background-color: rgb(2, 131, 114);
+  color: white;
 }
