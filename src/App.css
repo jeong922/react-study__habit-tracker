@@ -16,6 +16,7 @@ button {
 
 .navbar-logo {
   color: rgb(2, 131, 114);
+  margin-right: 0.5em;
 }
 
 .habit {
@@ -36,6 +37,19 @@ button {
   background-color: rgb(2, 131, 114);
   color: white;
   border-radius: 50%;
+}
+
+.add-input {
+  font-size: 1.5rem;
+  margin-right: 0.2rem;
+}
+
+.add-button {
+  height: 100%;
+  font-size: 1.5rem;
+  padding: 0.2em 0.4em;
+  background-color: rgb(2, 131, 114);
+  color: white;
 }
 
 .habit-count {
